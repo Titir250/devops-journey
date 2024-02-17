@@ -27,3 +27,5 @@ git log --oneline-->shows in consolidated format
 
 git config --global user.name "Titir Roy"-->add username to git
 git config --global user.email "titirroy1@gmail.com"-->add email to git
+git checkout -b dev--> new branch dev is created
+
