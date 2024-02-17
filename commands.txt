@@ -20,3 +20,6 @@ nibba.txt  nibbi.txt
 git restore commands.txt--> to restore deleted files by the linux file system.
 ls
 commands.txt  nibba.txt  nibbi.txt
+
+git log--> shows previous commits
+git log --oneline-->shows in consolidated format
