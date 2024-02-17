@@ -1,0 +1,13 @@
+This is the file with all the commands.
+
+
+
+git init-->to initialize an empty directory
+
+#if we do ls -a then we can see .git file there
+
+git add nibba.txt-->add a file nibba.txt to the staging area
+git rm --catched nibba.txt-->remove a file nibba.txt to the staging area
+git restore --staged commandts.txt-->also unstages the files to untracked area
+git commit -m "your commit message"-->commit the files from staging area
+git status-->shows the status of the files in the repository
