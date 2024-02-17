@@ -10,6 +10,7 @@ git add nibba.txt-->add a file nibba.txt to the staging area
 git rm --catched nibba.txt-->remove a file nibba.txt to the staging area
 git restore --staged commandts.txt-->also unstages the files to untracked area
 git commit -m "your commit message"-->commit the files from staging area
+git commit -a -m "your commit message"-->commit the files directly from untracked area
 git status-->shows the status of the files in the repository
 
 As git version control system now holds all the files in the currnt directory we can restore removed directories also.
